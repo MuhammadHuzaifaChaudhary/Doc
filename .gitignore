@@ -1,0 +1,5 @@
+nasm-2.16.01/
+assemblytools/
+*.com
+*.lst
+*.obj
